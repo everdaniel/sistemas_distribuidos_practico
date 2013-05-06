@@ -1,4 +1,5 @@
 *.dcu
+*.~pas
 *.~dpr
 *.~ddp
 *.~dfm
