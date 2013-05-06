@@ -1,4 +1,4 @@
-sistemas_distribuidos_practico
+Practico de Sistemas Distribuidos
 ==============================
 
-Practico Sistemas Distribuidos
+Trabajo Practico de Sistemas Distribuidos
